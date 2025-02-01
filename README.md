@@ -1,5 +1,6 @@
-# Companion AI Assistant
+# Code Genesis AI Assistant
 
+Deployed Model Link : [ (https://codegenesis.streamlit.app/) ]
 ## Description
 Companion is an AI assistant built using Streamlit that helps users with coding, debugging, and other technical tasks. It allows users to select from various AI models and adjust the creativity level of the responses.
 
